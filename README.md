@@ -1,2 +1,2 @@
 # html_playground
-HTML playground
+HTML playground for Martins Vabulis
