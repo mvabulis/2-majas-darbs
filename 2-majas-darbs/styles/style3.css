@@ -1,3 +1,7 @@
+body {
+  background-color: rgb(119, 169, 207);
+  color: white;
+}
 /*MOBILE FIRST LAYOUT*/
 /*HEADER CONTAINER SECTION*/
 .header-container > div{
@@ -110,7 +114,6 @@
     display: inline-block;
   }
 }
-
 /*DESKTOP LAYOUT*/
 @media (min-width: 992px){
   .header-container{
@@ -161,10 +164,10 @@
   font-size: 16px;
   margin: 4px 2px;
   border-radius: 10px;
-  margin: auto;
   }
 a {
     text-decoration: none;
+    color: white;
   }
 .fa {
     font-size: 50px;
@@ -188,4 +191,5 @@ a {
   background: #dd4b39;
   color: white;
 }
+
 
